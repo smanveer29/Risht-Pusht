@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542435407889",
+    "project_id": "profusstest",
+    "storage_bucket": "profusstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542435407889:android:433dd4c582578dd4a819b0",
+        "android_client_info": {
+          "package_name": "com.profusstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542435407889-bv159hbd4tmg3e4752ifbhjidgfu3c78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ooJWgwOD_aiWAsDqaAX_mJIYHaq2QAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542435407889-bv159hbd4tmg3e4752ifbhjidgfu3c78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
